@@ -36,4 +36,3 @@ This is the list of examples:
 ## License
 
 This code is released under the MIT License. See LICENSE file.
-
